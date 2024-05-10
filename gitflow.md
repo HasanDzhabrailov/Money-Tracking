@@ -36,7 +36,7 @@ feature/MT-239193 changes:
 - Вырезано старое меню
 ```
 
-## 📌 Merge Request 
+## 📌 Pull Request 
 ### **Пример:**
 **✏️ Title**  (название ветки + заголовок задачки)
 ```
