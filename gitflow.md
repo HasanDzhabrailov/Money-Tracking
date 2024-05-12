@@ -50,7 +50,6 @@ improvement/MT-239193 Описание Readme
 ```
 **🎯 Merge options**
 
-✅ `Delete source branch when merge request is accepted.`  
-✅ `Squash commits when merge request is accepted.`  
+✅ `Rebase and merge`  
 
 ❗ Так же указываем себя в поле `Assignee` и  HasanDzhabrailov в `Reviewer` ❗
